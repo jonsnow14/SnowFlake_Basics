@@ -1,1 +1,1 @@
-# snowflake_Data_pipeline_US_Economic_Trend
+# US_Wage_CPI Data analysis
