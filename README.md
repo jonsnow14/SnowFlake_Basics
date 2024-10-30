@@ -8,10 +8,10 @@
             Typically used in scenarios where real time processing/utlization of data is not critical   
             typical used like  when large amount of data is ingested everyday    
     
->>Steps Involved in batch Ingestion
-        >>>1.Prepare Data File
-        >>>2.Staging/Storing Data Files somewhere , common AWS S3 bucket, local computers, other data systems
-        >>>3.Perform the ingestion with SQL or Python
+>>Steps Involved in batch Ingestion  
+        1.Prepare Data File  
+        2.Staging/Storing Data Files somewhere , common AWS S3 bucket, local computers, other data systems  
+        3.Perform the ingestion with SQL or Python  
         
   Example 
       Load Data from Snowflake Market place
