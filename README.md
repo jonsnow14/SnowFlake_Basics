@@ -14,10 +14,10 @@
         3.Perform the ingestion with SQL or Python  
         
   Data Laoding    
-      >> Load Data from Snowflake Market place  
-      >> Load Data from Snowflake's web inteference  
-      >> Load Data from local using Snowflake's CLI  
-      >> Copy into SQL command to load data from files in cloud into snowlake  
+      >>> Load Data from Snowflake Market place  
+      >>> Load Data from Snowflake's web inteference  
+      >>> Load Data from local using Snowflake's CLI  
+      >>> Copy into SQL command to load data from files in cloud into snowlake  
 
 
 Load data from snowflake market place (steps involved)
