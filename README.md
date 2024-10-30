@@ -1,23 +1,23 @@
 ## Data Ingestion with snowflake 
 
->Data Ingestion in snowflake can be categroized into two categorirs 
+> Data Ingestion in snowflake can be categroized into two categorirs 
 
->>Batch Ingestion.   
+>> Batch Ingestion.   
             Data processed in Large,Discrete chunks   
             can be onetine event or in scheduled intervals   
             Typically used in scenarios where real time processing/utlization of data is not critical   
             typical used like  when large amount of data is ingested everyday    
     
->>Steps Involved in batch Ingestion  
+>> Steps Involved in batch Ingestion  
         1.Prepare Data File  
         2.Staging/Storing Data Files somewhere , common AWS S3 bucket, local computers, other data systems  
         3.Perform the ingestion with SQL or Python  
         
   Data Laoding    
-      >>Load Data from Snowflake Market place  
-      >>Load Data from Snowflake's web inteference  
-      L>>oad Data from local using Snowflake's CLI  
-      >>Copy into SQL command to load data from files in cloud into snowlake  
+      >> Load Data from Snowflake Market place  
+      >> Load Data from Snowflake's web inteference  
+      >> Load Data from local using Snowflake's CLI  
+      >> Copy into SQL command to load data from files in cloud into snowlake  
 
 
 Load data from snowflake market place (steps involved)
