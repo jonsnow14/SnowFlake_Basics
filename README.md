@@ -2,7 +2,7 @@
 
 >Data Ingestion in snowflake can be categroized into two categorirs 
 
->>Batch Ingestion  
+>>Batch Ingestion.   
             >>>Data processed in Large,Discrete chunks 
             >>>can be onetine event or in scheduled intervals 
             >>>Typically used in scenarios where real time processing/utlization of data is not critical 
@@ -22,7 +22,6 @@
 
 Load data from snowflake market place 
 
-#insert pics
         Log into snowflake account
         Click on MarketPlace 
         Search for data
