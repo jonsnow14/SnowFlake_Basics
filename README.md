@@ -43,8 +43,8 @@ Loading Data using Snowflake's Web interface.
 
 
 
-Streaming Ingestion  
-    Continous Real time, Near Real time- data ingestion  
-    Deals with dta piece fby Piece virtually continously  
-    Comman use case  like finacial trading  
+>>Streaming Ingestion    
+>>>Continous Real time, Near Real time- data ingestion    
+>>>Deals with dta piece fby Piece virtually continously    
+>>>Comman use case  like finacial trading    
     
