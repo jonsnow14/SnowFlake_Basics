@@ -32,7 +32,7 @@
 >>>Start Exploring   
 >>>Note upon successfull loading of Data a database would be created  wich user can work onto  
         
-Loading Data using Snowflake's Web interface.
+>>Loading Data using Snowflake's Web interface.
 
 
 
