@@ -21,16 +21,16 @@
 
 
 >>Load data from snowflake market place (steps involved)
->>>Log into snowflake account
->>>Click on MarketPlace 
->>>Search for data
->>>click get
->>>Upon appearance of dropdown menu , select options to rename database and roles to access DB
->>>Click Get
->>>Upon successfull loading a Ready to use pop up will appear along with Query Data options
->>>Query Data will open a SQL worksheet 
->>>Start Exploring 
->>>Note upon successfull loading of Data a database would be created  wich user can work onto.
+>>>Log into snowflake account  
+>>>Click on MarketPlace   
+>>>Search for data  
+>>>click get  
+>>>Upon appearance of dropdown menu , select options to rename database and roles to access DB  
+>>>Click Get  
+>>>Upon successfull loading a Ready to use pop up will appear along with Query Data options  
+>>>Query Data will open a SQL worksheet   
+>>>Start Exploring   
+>>>Note upon successfull loading of Data a database would be created  wich user can work onto  
         
 Loading Data using Snowflake's Web interface.
 
