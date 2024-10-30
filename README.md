@@ -14,10 +14,10 @@
         3.Perform the ingestion with SQL or Python  
         
   Data Laoding    
-      Load Data from Snowflake Market place  
-      Load Data from Snowflake's web inteference  
-      Load Data from local using Snowflake's CLI  
-      Copy into SQL command to load data from files in cloud into snowlake  
+      >>> Load Data from Snowflake Market place  
+      >>> Load Data from Snowflake's web inteference  
+      >>> Load Data from local using Snowflake's CLI  
+      >>> COPY INTO SQL command to load data from files in cloud into snowlake  
 
 
 Load data from snowflake market place (steps involved)
@@ -44,8 +44,8 @@ Loading Data using Snowflake's Web interface.
 
 
 
-Streaming Ingestion
-    Continous Real time, Near Real time- data ingestion
-    Deals with dta piece fby Piece virtually continously
-    Comman use case  like finacial trading
+Streaming Ingestion  
+    Continous Real time, Near Real time- data ingestion  
+    Deals with dta piece fby Piece virtually continously  
+    Comman use case  like finacial trading  
     
