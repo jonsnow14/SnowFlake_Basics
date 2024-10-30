@@ -3,10 +3,10 @@
 > Data Ingestion in snowflake can be categroized into two categorirs -Batch Ingestion and Streaming Ingestion
 
 >> Batch Ingestion.   
-            >>>Data processed in Large,Discrete chunks    
-            >>>onetine event/scheduled intervals    
-            >>>Typically used in scenarios where real time processing/utlization of data is not critical    
-            >>>typically used   when large amount of data is ingested at a frequency      
+            >>>  Data processed in Large,Discrete chunks    
+            >>>  onetine event/scheduled intervals    
+            >>>  Typically used in scenarios where real time processing/utlization of data is not critical    
+            >>>  Typically used   when large amount of data is ingested at a frequency      
     
 >> Steps Involved in batch Ingestion  
         1.Prepare Data File  
