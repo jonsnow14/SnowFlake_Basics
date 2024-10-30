@@ -13,11 +13,11 @@
         2.Staging/Storing Data Files somewhere , common AWS S3 bucket, local computers, other data systems  
         3.Perform the ingestion with SQL or Python  
         
-  Example 
-      Load Data from Snowflake Market place
-      Load Data from Snowflake's web inteference
-      Load Data from local using Snowflake's CLI
-      Copy into SQL command to load data from files in cloud into snowlake
+  Data Laoding    
+      Load Data from Snowflake Market place  
+      Load Data from Snowflake's web inteference  
+      Load Data from local using Snowflake's CLI  
+      Copy into SQL command to load data from files in cloud into snowlake  
 
 
 Load data from snowflake market place 
